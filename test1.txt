@@ -1,2 +1,2 @@
-hi!
-how r u?
+hello all!
+this is git practise session.
